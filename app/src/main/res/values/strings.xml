@@ -1,0 +1,21 @@
+
+<resources xmlns:xliiff="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+    <string name="quantity">quantity</string>
+    <string name="min">-</string>
+    <string name="plus">+</string>
+    <string name="name">name</string>
+    <string name="nol">0</string>
+    <string name="topping">TOPPING</string>
+    <string name="prize">prize</string>
+    <string name="Order">Order</string>
+    <string name="dolar">$ 0</string>
+    <string name="whipped">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order_summary_name"> Nama : <xliiff:g id="name" example="deni">%s</xliiff:g></string>
+    <string name="order_summary_whipped_cream"> WhippedCream : <xliiff:g id="addwhippedCream" example="true">%s</xliiff:g></string>
+    <string name="order_summary_Chocolate"> Chocolate : <xliiff:g id="addChocolate" example="true">%s</xliiff:g></string>
+    <string name="order_summary_quantity">quantity: <xliiff:g id="quantity">%d</xliiff:g></string>
+    <string name="order_summary_price"> price: <xliiff:g id="priceMessage">%s</xliiff:g></string>
+    <string name="order_summary_email_subject"> by : <xliiff:g id="nama">%s</xliiff:g></string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliiff="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+    <string name="chocolate">Coklat</string>
+    <string name="Order">Pesan</string>
+    <string name="name">Nama</string>
+    <string name="order_summary_Chocolate"> Coklat : <xliiff:g id="addChocolate" example="true">%s</xliiff:g></string>
+    <string name="order_summary_email_subject">Pesanan hanya untuk  :<xliiff:g id="nama">%s</xliiff:g></string>
+    <string name="order_summary_name">nama :<xliiff:g id="name" example="deni">%s</xliiff:g></string>
+    <string name="order_summary_price">total : <xliiff:g id="priceMessage">%s</xliiff:g></string>
+    <string name="order_summary_quantity">jumlah :<xliiff:g id="quantity">%d</xliiff:g></string>
+    <string name="order_summary_whipped_cream">Cream Susu :<xliiff:g id="addwhippedCream" example="true">%s</xliiff:g></string>
+    <string name="prize">Total :</string>
+    <string name="quantity">Jumlah :</string>
+    <string name="topping">Topping :</string>
+    <string name="whipped">Cream Susu :</string>
+</resources>
